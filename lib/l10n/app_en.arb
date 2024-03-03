@@ -1,0 +1,22 @@
+{
+  "appName": "DashDialog",
+  "firstAppName": "Dash",
+  "lastAppName": "Dialog",
+
+  "signInLabel": "Sign In",
+  "signUpLabel": "Sign Up",
+  "emailAddressLabel": "Email Address",
+  "emailAddressHint": "Enter your email address",
+  "emailAddressError": "Email address cannot be empty",
+  "passwordLabel": "Password",
+  "passwordHint": "Enter your password",
+  "passwordEmptyError": "Password cannot be empty",
+  "passwordNotContainLetter": "Password should have letter",
+  "passwordNotContainNumber": "Password should have number",
+  "passwordNotContainChar": "Password should have special character",
+  "passwordTooShort": "Password should be at least 8 characters",
+  "dontHaveAccountLabel": "Don't have an account?",
+  "forgotPasswordLabel": "Forgot Password",
+
+  "pleaseWaitLabel": "Please Wait"
+}
