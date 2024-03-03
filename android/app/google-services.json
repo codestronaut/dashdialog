@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675767374664",
+    "project_id": "dash-dialog",
+    "storage_bucket": "dash-dialog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675767374664:android:eec84e023624cf9072997d",
+        "android_client_info": {
+          "package_name": "com.codestronaut.dash_dialog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMa6ONe0x-pdUqO-0aTHr1Y1kxY81SbYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
